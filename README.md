@@ -1,10 +1,14 @@
-<h1 align="center">Hello! I'm Iza 🌷</h1>
-<h3 align="center">Aspiring developer with a curiosity for everything in between</h3>
+<h3 align="left">Hello! I'm Iza </h3>
+<p>Aspiring developer with a curiosity for everything in between 🌷</p>
+<ul>
+  <li>
+    Third-year ICT student, currently working on my Engineering Thesis
+  </li>
+</ul>
 
-<p align="left">
-</p>
-
-<h3 align="left">✨ Languages and Tools:</h3>
+<br>
+<br>
+<h4 align="left">✨ Languages and tools I've worked with:</h4>
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
